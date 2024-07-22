@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "Case Cobra - create custom phone case",
+    des: "Case Cobra allows you to create a custom iPhone Case with the image you want to.",
+    img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://case-cobra-woad.vercel.app/",
   },
   {
     id: 2,
@@ -84,57 +84,52 @@ export const projects = [
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://github.com/MuniS97/zoom_clone",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Kinoarea - custom kino website",
+    des: "Kinoarea allows you to watch or just analyze the latest movies",
+    img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://github.com/MuniS97/Kinoarea",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Spotify - Web Player: Music for everyone",
+    des: "Spotify is a digital music service that gives you access to millions of songs.",
+    img: "/p4.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://github.com/MuniS97/Spotify",
   },
 ];
 
 export const testimonials = [
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "Collaborating with Munis was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Munis's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Munis is the ideal partner.",
+    name: "Daler Sharifkulov",
+    title: "Director of Dotlabs.uz"
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "Working with Munis was a fantastic experience. His attention to detail and commitment to quality were evident in every stage of our project. Munis's ability to understand and execute our vision made a significant impact on our website's success.",
+    name: "Mexroj",
+    title: "CEO of Omad yor 777"
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "Munis's expertise and innovative approach transformed our online presence. His dedication and skillset were crucial in achieving our goals. We couldn't be happier with the results.",
+    name: "Mirsaid Siddikov",
+    title: "Web developer in Dotlabs.zu"
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "From start to finish, Munis was a true professional. His insights and creativity helped us craft a website that truly represents our brand. Munis is an invaluable asset to any team.",
+    name: "Emil David",
+    title: "Founder of UzTech Solutions"
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
+    quote: "Munis's work ethic and passion for development are unmatched. His ability to tackle complex problems and deliver top-notch solutions made our collaboration seamless and successful.",
+    name: "James Wilson",
+    title: "CTO of NextGen Innovations"
+  }
 ];
 
 export const companies = [
@@ -205,13 +200,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/MuniS97/"
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/tg.svg",
+    url: "https://t.me/mstthone"
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/email.svg",
+    url: "mailto:tursunovmunis141@gmail.com"
   },
 ];
